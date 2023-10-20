@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# E commerce web site using react and context API (bootstrap)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Just a simple ecommerce with chart filtering randomised data.
 
 ## Available Scripts
 

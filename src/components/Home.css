@@ -1,0 +1,13 @@
+.home {
+  display: flex;
+}
+
+.productContainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: repeat(3, 400px);
+  width: 78%;
+  padding: 20px;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
